@@ -1,0 +1,5 @@
+mass=4.0
+accel=3.1
+force=mass*accel
+print(force)
+
