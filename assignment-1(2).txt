@@ -1,5 +1,5 @@
-mass=4.0
-accel=3.1
-force=mass*accel
-print(force)
+mass=4
+accel=3
+c=mass*accel
+print"force=%d"%(c)
 
