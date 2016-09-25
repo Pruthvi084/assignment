@@ -1,5 +1,5 @@
 mass=input("mass=")
 accel=input("accel=")
 c=mass*accel
-print"force=%d"%(c)
+print"force=%.2f"%c
 
