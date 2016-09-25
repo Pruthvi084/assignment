@@ -1,5 +1,5 @@
-mass=4
-accel=3
+mass=input("mass=")
+accel=input("accel=")
 c=mass*accel
 print"force=%d"%(c)
 
